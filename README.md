@@ -1,3 +1,4 @@
+<img width="1280" height="720" alt="New Project (4)" src="https://github.com/user-attachments/assets/bd668f9c-2561-4b5f-91db-f8cb1ed73375" />
 # 3YZN Discord Bot
 
 **A modular Discord moderation and automation bot built with Python and discord.py 2.x.**
